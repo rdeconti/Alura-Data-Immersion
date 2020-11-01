@@ -1,3 +1,4 @@
+# Imersão de Dados Alura
 Nesta imersão foi explorada um amostra da base de microdados do ENEM 2019. Foram criados modelos de Machine Learning utilizando o Python e as principais bibliotecas na área de Data Science. Foram 5 aulas explorando todo o workflow de um projeto em Data Science.
 
 # AULA 1 SUA PRIMEIRA ANÁLISE EM DADOS DA EDUCAÇÃO
