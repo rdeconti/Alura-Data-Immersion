@@ -2,7 +2,6 @@ Nesta imersão foi explorada um amostra da base de microdados do ENEM 2019. Fora
 
 # AULA 1 SUA PRIMEIRA ANÁLISE EM DADOS DA EDUCAÇÃO
 Preparamos essa primeira aula para não precisar instalar nada em sua máquina. Você só precisa acessar o Google Colab e iniciar o desenvolver do projeto.
-
 Nessa aula teremos nosso primeiro contato com Python e o famoso Pandas, vamos utilizar diversas funcionalidades desta biblioteca para explorar dados da educação. Na nossa análise de dados vamos descobrir curiosidades sobre inscritos no ENEM, formular hipóteses e gráficos de distribuição Box-plot para entender melhor alguns aspectos da educação brasileira.
 
 # AULA 2: ANÁLISE EXPLORATÓRIA DE DADOS
